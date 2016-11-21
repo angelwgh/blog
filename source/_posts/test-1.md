@@ -216,7 +216,7 @@ deploy:
 列出网站资料。
 
 #### version
-$ hexo version
+    $ hexo version
 显示 Hexo 版本。
 
 ### 选项
